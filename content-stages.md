@@ -42,7 +42,7 @@ Alpha - Soul
 
 Alphas are about building the best soul for content, as what's inside is what matters most.
 
-Alphas are about polishing your prototype in terms of the game rules. Exploring additional routes, figuring out minor settings, or communicating information. The goal of an Alpha is making the content have replayability. People should be excited about another play on the map. "Come for the aesthetics, stay for the gameplay" is a motto that should be kept in mind. Building that "soul" of the content is what makes it ready for Beta. Keep fast iteration in mind. Changes in this stage are quick, easy, and cheap and it is harder to be invested in a setion. As soon as art is done, its hard to change something pretty. So make 99% of gameplay changes now.
+Alphas are about polishing your prototype in terms of the game rules. Exploring additional routes, figuring out minor settings, or communicating information. In Creative Force when a Prototype becomes playable, we move it from the Sandbox/Mindbox into the Alphas list. The goal of an Alpha is making the content have replayability. People should be excited about another play on the map. "Come for the aesthetics, stay for the gameplay" is a motto that should be kept in mind. Building that "soul" of the content is what makes it ready for Beta. Keep fast iteration in mind. Changes in this stage are quick, easy, and cheap and it is harder to be invested in a setion. As soon as art is done, its hard to change something pretty. So make 99% of gameplay changes now.
 
 _Required_
  - Tons of testing is played on it
@@ -60,6 +60,7 @@ _Flexible_
 _Avoid_
  - Doing anything related to visual quality; every change should be based on gameplay
  - Minimal testing; this should be the most playtested phase in the entire pipeline
+ - Animating cameras as camera animation should take into account the art and will just have to be redone when art is applied
 
 
 ---
@@ -67,7 +68,28 @@ _Avoid_
 Beta - Identity
 ---
 
+Betas are about building a recognizable identity, as every Blockout blurs together.
 
+Betas are about making people remember a piece of content and building content recognition. In Creative Force, Betas are pulled from the Backlog into Beta Candidates when it is being worked on. When a Beta is complete it is still considered a work in progress. The goal of a Beta is to ensure that when someone hear's the map name, they can actually remember it and imagine it visually. Despite being about building an identity, we still want the map to be crude. We still want to build a powerful contrast between a published Beta and a Release. In this stage we focus on changing colors, texturing, atmosphere, and player containment. The content should have the visual quality of about a Halo CE map.
+
+_Required_
+ - Solidify a name for the content
+ - Atmosphere is set (filters, map effects, blocking out the sun, fog color, etc.)
+ - Every piece's texturing, color, and overlay is considered
+ - Each spawn point and weapon is carefully tweaked for a good experience
+ - The map is 80% contained (focus on just big blockers as the map will still be changing)
+ - A WIP writeup is done
+ - Development screenshots exist of the Beta
+ - A WIP thread is posted on Forgehub
+
+_Flexible_
+ - Playtest infrequently to verify gameplay and to stir up some interest
+ - Keep track of ideas you may have for detailing an area
+
+_Avoid_
+ - Adding anything more than atmosphere, texturing, global lighting, and landmarking
+ - Adding any additional forge objects
+ - Adjusting cameras with animations (we want to keep it crude)
 
 
 ---
