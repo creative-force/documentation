@@ -16,6 +16,7 @@ _Avoid_
  - Not mentioning ideas, these turn into possible missed opportunities; your ideas no matter how irrelevant could spark new conversations that end up in the final product
 
 
+---
 
 Prototype - Acknowledgement
 ---
@@ -36,6 +37,8 @@ _Avoid_
  - Attention to detail, the goal of this is to be fast to playability.
  - Feature creep; focus on building the initial idea and don't modify it as you are building, unless the current idea is literally unplayable (you can't even start the game).
 
+
+---
 
 Alpha - Soul
 ---
@@ -79,12 +82,14 @@ _Required_
  - Each spawn point and weapon is carefully tweaked for a good experience
  - The map is 80% contained (focus on just big blockers as the map will still be changing)
  - A WIP writeup is done
+ - Map is saved with the name of "<Content Name> 1.0.0"
  - Development screenshots exist of the Beta
  - A WIP thread is posted on Forgehub
 
 _Flexible_
  - Playtest infrequently to verify gameplay and to stir up some interest
  - Keep track of ideas you may have for detailing an area
+ - Test with higher skilled halo community members
 
 _Avoid_
  - Adding anything more than atmosphere, texturing, global lighting, and landmarking
@@ -96,3 +101,35 @@ _Avoid_
 
 Release - Style
 ---
+
+Releases are about blowing people's mind with how much the map's style.
+
+Releases are the final product, until the content is revisited. We want to make Releases actually matter, and to do this the previous stages need to be the worst they can possibly be while achieving their goals. We want people to be relatively interested in maps at the Beta/WIP stage, but when they finally get to see the final product their jaw should drop. This is the stage that takes the most time. Detailing should be done on the map and in the skybox, cameras should gain animation to introduce a dynamic feel, and every little bit of z-fighting and texture is perfected.
+
+_Required_
+ - If applicable, Lore should exist for the content
+ - Cameras animated
+ - Detail lighting handled
+ - Sound effects added
+ - Special effects added
+ - Decals added
+ - Lightmap reduced to below 100%
+ - Map saved as "<Content Name>" with version 2.0.0 in the description
+ - Beta writeup is added to
+ - Final Screenshots are taken
+ - Final Screenshots are processed into marketing material
+ - A short in-game description is created
+ - Make a Content post to the FH Database
+ - Share map on Reddit and Twitter
+
+_Flexible_
+ - Post progress pictures from crappy Beta to fancy Release
+ - Post updated playable versions to the WIP thread (version represented as 1.#.0)
+ - Contact youtube channels about upcoming release
+ - After release, make minor changes to the core version without overriding it or saving a new version
+ - Share with your friends and family on Facebook
+ - Make a video of it ourselves
+
+_Avoid_
+ - Never releasing (you can always come back to it)
+ - Putting the work into a Release before working on another piece of content that a team member needs help with
