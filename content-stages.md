@@ -59,8 +59,9 @@ _Required_
  - Gameplay must be addicting to play over and over again; the content should immerse you with gameplay alone
  - Every logical game mode objective should be setup as that is part of the gameplay
  - Cameras should be setup statically as cameras impart important information that cannot be untested
- - Name zones should exist over 80% of the map
- - An art direction needs to be decided on
+ - Name zones volumes exist over 80% of the map (names need not be final)
+ - The map is 80% contained (focus on just big blockers as the map will still be changing in art)
+ - An art direction needs to be decided on as a team
  - Final product is represented as "<Content Name> 0.#.0" as it is playable and has gone through many iterations
 
 _Flexible_
@@ -87,13 +88,12 @@ Betas are about making people remember a piece of content and building content r
 
 _Required_
  - Solidify a name for the content
- - Atmosphere is set (filters, map effects, blocking out the sun, fog color, etc.)
+ - Atmosphere is set (filters, map effects, blocking the sun, fog color, etc.)
  - Every piece's texturing, color, and overlay is considered
- - Each spawn point and weapon is carefully tweaked for a good experience
- - The map is 80% contained (focus on just big blockers as the map will still be changing)
- - A WIP writeup is done
+ - Every area is defined to have a specific purpose (engine room, dock, etc.)
+ - A minimal WIP writeup is done with the design and art direction
  - Map is saved with the name of "<Content Name> 1.0.0"
- - Development screenshots exist of the Beta
+ - Development screenshots are taken of the Beta
  - A WIP thread is posted on Forgehub
 
 _Flexible_
@@ -101,6 +101,7 @@ _Flexible_
  - Bring to community test lobbies for feedback
  - Keep track of ideas you may have for detailing an area
  - Test with higher skilled halo community members
+ - Adjust Name Zones
 
 _Traps_
  - Adding anything more than atmosphere, texturing, global lighting, and landmarking
@@ -121,17 +122,21 @@ Releases are the final product, until the content is revisited. We want to make 
 
 _Required_
  - If applicable, Lore should exist for the content
- - Cameras animated
- - Detail lighting handled
- - Sound effects added
- - Special effects added
- - Decals added
+ - Finalize name zones
+ - Each spawn point and weapon is carefully tweaked for a good experience
+ - Cameras are animated to add a dynamic touch
+ - Detail lighting handled to heighten mood, and designate areas
+ - Sound effects added to improve atmostphere and immersion
+ - Special effects added where necessary
+ - Decals and other detailing added to enhance the experience
  - Lightmap reduced to below 100%
  - Map saved as "<Content Name>" with version 2.0.0 in the description
- - Beta writeup is added to
- - Final Screenshots are taken
- - Final Screenshots are processed into marketing material
+ - Beta writeup is added to with additional development notes from the team
  - A short in-game description is created
+ - Five final Screenshots are taken on the Creative Force gamertag
+ - Map is fully saved on the Creative Force gamertag
+ - Map is tagged appropriately
+ - The five final Screenshots are processed into marketing material
  - Make a Content post to the FH Database
  - Share map on Reddit and Twitter
 
