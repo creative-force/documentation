@@ -1,42 +1,22 @@
-Making sure to follow this format makes the publishers job much easier as it guarantees that they have the information they need to publish the map and we won't have issues like we did with the first sprint. 
+### Card Title
 
-***CARD TITLE***
+The card title should just reflect the name of the content. This makes it easy to search for the map and automate some of our process.
 
-"[4v4] Map Name vX.XX.XX"
+### Card Fields
 
-[4v4] could be anything that indicates suggested player counts: [4v4/8v8], [4-12], [BTB], [Grifball], [Ricochet], etc.
+ - **Type:** The type of content this card represents. Common values include: *Map*, *Gametype*, *Mini-Game*, *Mechanic*, *Prefab*, *Environment*, *Architecture*, etc
+ - **Gameype(s):** This reflects the gametypes that the content should be played with. Common values include *Core*, *Grifball*, *Fury*, *Infection*, etc.
+ - **Players(s):** Represents the player counts that should play on the content. Common values include: *4v4*, *2v2*, *1v1*, *8v8*, *ALLv1*, etc.
+ - **Version:** The current development version and what fileshre it can be found on. Values should look like: *0.0.1 [Nitro]*, *1.0.2 [Mythic]*, *0.3.0 [Ray]*, etc
 
-***CARD DESCRIPTION***
+### Card Description
 
-Map Name: <Map Name> (Indicate if Working Title)
-X-X Players 
-Gametypes: [Core]/[Grifball]/[Minigame]/[CTF]/[FFA]/etc
+**File Description:** "vX.XX - [Gametypes] - \<Description>" (140 Characters Max)
 
-Description: "vX.XX.XX - [Gametypes] - <Description>" (140 Characters Max)
+**Design Lead:** \<Gamertag>
 
-GT's & Roles: (If single creator, Designer; If remake, no Designers)
-<GT> - Designer 
-<GT> - Developer
-<GT> - Aesthetics/Cameras/Spawning/etc
+**Art Design Lead:** \<Gamertag>
 
-Beta Writeup: <Development notes and other relevant prose that developers would like to share with the release. 2-3 Paragraphs>
-_____________________________________________________________________
+**Idea Writeup:** \<Original description for inspiration of the idea, the goals, the potential, the experience, the initial lore, etc.>
 
-***Notes:***
-
-vX.XX.XX is the version number, it may only be 3 digits (ex. v0.2.1), but could have double digit iterations (ex. v0.13.0). It is important to consider this as you are creating the description so that a version number doesn't ruin a description you spent time to create and make fit in the character limit.
-
-If the map is a remake, the title should be prefaced:
-
-Halo:CE -> "CE - "
-Halo 2 -> "H2 - "
-Halo 3 -> "H3 - "
-Halo 4 -> "H4 - "
-Halo: CE Anniversary -> "CE:A - "
-Halo: 2 Anniversary -> "H2:A - "
-
-Ex: "H2 - Coagulation", "H2 - Turf"
-
-If the map is in Beta, the title should be followed by "(Beta)".
-
-Ex: "H2 - Turf (Beta)", Evergreen (Beta)
+**Art Writeup:** \<The inspiration and goals for the art direction and the experience or history of related lore to help flesh out the art.>

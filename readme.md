@@ -48,6 +48,31 @@ The remaining responsibilities were split into supporting roles that support the
 
 ---
 
+Difficulties
+---
+
+In order for the proposed solution to succeed, many factors need to be kept in mind. All of these difficulties are in addition to the normal difficulties that startups will typically have.
+
+ - The most important thing to keep in mind is that every Forger is doing this development in their free time. Because there is no financial incentive, getting a full team of individuals working in their free time will be extremely difficult.
+ - Forgers have a history of working on their own. Very few individuals are mentally prepared to work with others in a collaborative environment.
+ - Ownership will become a huge issue as most Forgers are used to owning an entire project from start to finish and as a result are used to being personally tied to their decisions. This will result in conflict of ownership from time to time. This also introduces problems with ego and having projects be tied to a team rather than individuals reducing some of the incentive.
+ - Because of the mostly solo process, this is pioneering new territory for splitting up the process into a content pipeline. This isn't exactly game development or standard product development so processes will need to be truly customized for this system to work.
+ - Without financial incentive enticing individuals to perform support tasks rather than development tasks will be extremely difficult as the amount of recognition they receive will be very little.
+ - Timing group collaboration will be diffuclt. The process needs to be mostly asynchronous, allowing forgers to work separately from each other.
+ - Tools are limited. Halo development happened originally mostly on the Xbox. Due to this the potential for integrations with tools is pretty much non-existent. Our best bet is to eventually tap into the Halo API.
+ - There are no undo tools or version control systems in place which make collaboration extremely difficult, requiring a level of trust that doesn't normally exist in the community for fear of other individuals not being as knowledgeable.
+ - Project management and development organization is non-existent in the current forging process. It goes as far as creating a WIP thread or posting some screenshots in a "What are you working on?" Thread (WAYWO). So new tools will have a learning curve for most forgers.
+ - Expect very little official support from the developers of Halo (343 Industries). Favoritism is not something we want to give off as a reason for succeeding. We want to succeed on our own merits, not based on our connections and friends.
+ - With little financial support we need to work pretty much explicitly in the domain of free tools. This extremely limits possibilities for integration of tools between each other as most integrations require a subscription. Especially since most tools are a per user model.
+ - Because this team is strictly based on free time effort, we also have to be able to handle when other responsibilities come into play. Projects need to be easily passed on to others and the as a whole needs to be in control of content. Projects cannot have a single point of failure (as well as supporting material such as publishing templates).
+ - Forging is a hobby of passion, and not being able to properly fuel that passion will result in a drop in project participation. Progression goals need to be flexible enough to keep forgers interested as well as remain focused enough to complete projects.
+ - The entire process that makes the team work in the end will be a complex set of rules, processes, and truths. This process must remain documented and up-to-date so each individual remains on the same page.
+ - There is no guarantee that any individual will have any real world experience with working on a team for content creation and as a result, many individuals may actually be as young as young teens (12+). This requires attention to building an individual's maturity level.
+ - Due to the nature of online game playing, this team inherits all difficulties that come with being a remotely located team.
+
+
+---
+
 The Original Process (Oct '15 - Sept '16)
 ---
 
